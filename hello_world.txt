@@ -1,0 +1,3 @@
+Hello Everyone!
+I am learning git and doing the tasks assigned by the odin project
+This way I will continue to learn. 
